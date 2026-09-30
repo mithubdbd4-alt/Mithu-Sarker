@@ -1,0 +1,6 @@
+{
+  "name": "Bangla Calendar & Events",
+  "description": "Smart Bangladeshi Calendar app with Dhaka timezone, event and note management, bilingual Bangla/English support, dark mode, dashboard analytics, and offline Room persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
